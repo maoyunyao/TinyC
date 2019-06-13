@@ -1,0 +1,9 @@
+main()
+{
+    char a = 'A';
+    char b = a + 32;
+    show(a);
+    show(b);
+    show(a + 32);
+
+}
